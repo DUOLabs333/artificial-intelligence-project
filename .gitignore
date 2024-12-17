@@ -1,0 +1,6 @@
+.venv/
+*.typ
+*.pdf
+*.mid
+*.wav
+*.mp3

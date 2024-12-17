@@ -1,0 +1,5 @@
+pip install numpy librosa scipy
+git clone --depth=1 https://github.com/MTG/essentia && cd ./essentia && python3 waf configure --build-static --with-python  --with-vamp && python3 waf
+
+
+Install eigen3
